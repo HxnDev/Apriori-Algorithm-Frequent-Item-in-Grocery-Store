@@ -1,0 +1,10 @@
+Items		Frequency
+BREAD		7
+TEA		7
+EGG		6
+MAGGI		6
+MILK		6
+HONEY		4
+YUM		4
+JAM		3
+SUGER		3
